@@ -10,7 +10,7 @@ h1 {
   font-family: 'Comfortaa', cursive;
   color: #fbceb5;
   font-size: 4rem;
-  margin: 50px auto 0 auto;
+  margin: 3.125rem auto 0 auto;
 }
 
 h2 {
@@ -35,33 +35,33 @@ h4 {
 
 hr {
   border-style: dotted none none;
-  border-width: 6px;
+  border-width: .375rem;
   border-color: grey;
   width: 3%;
 }
 
 .circle-img {
-  height: 200px;
+  height: 12.5rem;
   background-color: #deff8b;
   border-radius: 100%;
 }
 
 .skill-img {
-  height: 150px;
+  height: 9.375rem;
   float: left;
-  margin-right: 30px;
+  margin-right: 1.875rem;
 }
 
 .top-container {
   background-color: #8cba51;
   position: relative;
-  padding-top: 100px;
+  padding-top: 6.25rem;
   text-align: center;
-  margin-bottom: 50px;
+  margin-bottom: 3.125rem;
 }
 
 .profile {
-  margin: auto auto 50px;
+  margin: auto auto 3.125rem;
 }
 
 .middle-container {}
@@ -70,20 +70,20 @@ hr {
 
 .skill-row {
   width: 50%;
-  margin: 50px auto 50px;
+  margin: 3.125rem auto 3.125rem;
   text-align: left;
 }
 
 #top-cloud {
   position: absolute;
-  right: 300px;
-  top: 50px;
+  right: 18.75rem;
+  top: 3.125rem;
 }
 
 #bottom-cloud {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 18.75rem;
+  bottom: 18.75rem;
 }
 
 #mountain {}
